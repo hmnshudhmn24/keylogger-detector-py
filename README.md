@@ -45,6 +45,3 @@ python keylogger_detector.py
 - Keep your **antivirus software updated**.  
 - Regularly **check installed applications** for unknown programs.  
 - Run this script frequently to detect and remove any hidden keyloggers.  
-
-## 📜 License
-This project is **open-source** and free to use.
